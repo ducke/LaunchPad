@@ -11,5 +11,8 @@
     "startbootstrap-sb-admin-2": "1.0.7",
     "ace-builds": "1.2.2",
     "eonasdan-bootstrap-datetimepicker": "4.17.37"
+  },
+  "resolutions": {
+    "bootstrap": "~3.3.0"
   }
 }
